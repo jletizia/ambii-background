@@ -1,5 +1,5 @@
 # Ambii-Background
-A small web app to test an ambient light set up
+A small web app to test ambient light setups, such as Philips Ambilight, Adalight, Ardulight, Boblight, or any other similar ambient light system
 
 # Usage
 Install required gems with bundler, and start the app:
