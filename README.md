@@ -21,3 +21,11 @@ This will produce a web page with a blue background. It also supports hex values
 ```
 http://localhost:4567/4778c6
 ```
+
+Set your browser to be in full screen mode to fully see the effect on your ambient light system.
+
+# TODO:
+- Add color browser / selector
+- Add gradient support
+- Add animated gradient support
+
